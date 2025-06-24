@@ -1,0 +1,2 @@
+# Sawir_Store
+Repositório para o protótipo de e-commerce da Sawir Store, uma loja fictícia especializada em produtos de tecnologia inovadores. Este projeto demonstra um layout moderno e responsivo, focado em uma experiência de usuário dinâmica com um carrossel interativo de produtos de destaque, incluindo o Apple Watch Series X, Air Pods Max e Vision Pro. Desenvolvido utilizando as melhores práticas em HTML, CSS e JavaScript.
